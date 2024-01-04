@@ -1,5 +1,5 @@
 # %%
-model_name = "Intel/neural-chat-7b-v3-3"  # Change to your preferred model
+model_name = "mlabonne/NeuralHermes-2.5-Mistral-7B"  # Change to your preferred model
 #model_name = "cognitivecomputations/dolphin-2.6-mistral-7b-dpo"  # Change to your preferred model
 
 
